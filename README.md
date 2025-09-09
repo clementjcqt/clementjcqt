@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://www.canva.com/design/DAGyZ0RAp1I/EwyUSPSHGfGM0GBWOMwfwQ/view?utm_content=DAGyZ0RAp1I&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=he1c2f7a5a8" alt="banner">
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=clementjcqt&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
